@@ -1,5 +1,5 @@
 # mg
-Develop minimalist grammar materials for CL1.
+Minimalist grammar materials for CL1.
 
 ## Student setup
 
@@ -18,4 +18,9 @@ Bundled third-party files retain their original copyright, attribution, and lice
 ## Repository layout
 
 - `code/`: the bundled parser and notebook support scripts.
-- `notebooks/`: Prolog notebooks; their loading cells use paths beginning with `../code/`.
+- `notebook/`: Prolog notebooks; their loading cells use paths beginning with `../code/` or `../grammar/`.
+
+## Development
+Design and implementation were carried out by Mats Rooth with
+extensive assistance from OpenAI’s ChatGPT and Codex through an
+iterative design, implementation, and code-review process.
