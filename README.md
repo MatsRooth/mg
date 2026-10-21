@@ -1,9 +1,9 @@
 # mg
-Minimalist grammar materials for CL1.
+Minimalist grammar infrastructure for Computational Linguistics I at Cornell.
 
 ## Student setup
 
-See [Student-Setup.md](Student-Setup.md) for SWI-Prolog and Jupyter installation and a first parsing exercise.
+See [Student-Setup.md](Student-Setup.md) for SWI-Prolog and Jupyter installation.
 
 ## Parser credits
 
