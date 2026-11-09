@@ -153,3 +153,5 @@ Avoid `showParse/1` in notebooks: it asks for terminal input to choose display o
 The parser is bundled in `code/mgcky-swi/` and configured for `mghapx`, `lhapx`, and `gh6`. The kernel compatibility script is included in `code/`.
 
 The parser and inline conversion have been checked on the author's Mac. Before assigning the setup, test the complete sequence in a fresh environment and notebook, including on Windows. The inline helper uses an internal kernel display interface, so validate the kernel version used for class.
+
+
